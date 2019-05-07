@@ -112,3 +112,4 @@ venv.bak/
 *.avi
 *.mp4
 *.exe
+*.dll
